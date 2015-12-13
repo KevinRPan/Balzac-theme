@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Discoveries</description>
-    <link>http://kevinrpan.github.io/</link>
-    <atom:link href="http://kevinrpan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 04:38:15 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 04:38:15 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <description></description>
+    <link>http://kevinrpan.github.io/home/</link>
+    <atom:link href="http://kevinrpan.github.io/home/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 13 Dec 2015 16:22:43 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 16:22:43 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>First Post</title>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2015 22:00:00 -0500</pubDate>
-        <link>http://kevinrpan.github.io/blog/notes/2015/12/12/welcome-to-me/</link>
-        <guid isPermaLink="true">http://kevinrpan.github.io/blog/notes/2015/12/12/welcome-to-me/</guid>
+        <link>http://kevinrpan.github.io/home/blog/notes/2015/12/12/welcome-to-me/</link>
+        <guid isPermaLink="true">http://kevinrpan.github.io/home/blog/notes/2015/12/12/welcome-to-me/</guid>
         
         
         <category>blog</category>
