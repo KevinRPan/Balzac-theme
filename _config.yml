@@ -10,7 +10,7 @@ url: http://kevinrpan.github.io
 #url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
-home:
+harmony:
   name: Explore
   description: Discoveries while becoming a real person
   meta_description: > # 
