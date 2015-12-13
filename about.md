@@ -14,7 +14,7 @@ This is my [home site][homesite] which I will be managing.
 ### Contact me
 
 Find me on [LinkedIn][linkedin] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[kevin.r.pan+git@gmail.com](kevin.r.pan@gmail.com).
+[kevinrpan@gmail.com](kevinrpan+git@gmail.com).
 
 
 [homesite]: http://kevinrpan.github.io
