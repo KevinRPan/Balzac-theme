@@ -8,7 +8,7 @@ categories:
 - notes
 ---
 
-Hello!
+Hello world!
 
 Here's my first post where I just want to test out basic functionality.
 

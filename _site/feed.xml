@@ -47,13 +47,13 @@
     <description>Discoveries while becoming a real person</description>
     <link>http://127.0.0.1:4000/</link>
     <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 17:02:48 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 17:02:48 -0500</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 17:15:19 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 17:15:19 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>First Post</title>
-        <description>&lt;p&gt;Hello!&lt;/p&gt;
+        <description>&lt;p&gt;Hello world!&lt;/p&gt;
 
 &lt;p&gt;Here’s my first post where I just want to test out basic functionality.&lt;/p&gt;
 
