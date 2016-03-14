@@ -8,7 +8,7 @@
         <meta name="description" content="Sharing discoveries
 ">
         <link rel="canonical" 
-        href="http://127.0.0.1:4000/feed.xml">
+        href="http://kevinrpan.github.io/feed.xml">
         
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
@@ -31,10 +31,10 @@
                 <h2>Discoveries while becoming a real person</h2>
                 <ul>
 	<li>
-		<a href="http://127.0.0.1:4000/about">About</a><span>/</span>
+		<a href="http://kevinrpan.github.io/about">About</a><span>/</span>
 	</li>
 	<li>
-		<a href="http://127.0.0.1:4000/blog">Blog</a><span>/</span>
+		<a href="http://kevinrpan.github.io/blog">Blog</a><span>/</span>
 	</li>
 	
 </ul>                
@@ -45,11 +45,33 @@
   <channel>
     <title></title>
     <description>Discoveries while becoming a real person</description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 17:15:19 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 17:15:19 -0500</lastBuildDate>
+    <link>http://kevinrpan.github.io/</link>
+    <atom:link href="http://kevinrpan.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 14 Dec 2015 13:24:30 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 13:24:30 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Finals</title>
+        <description>&lt;p&gt;Staying focused is a vital part of achievement, especially for key times when things come down to the wire.&lt;/p&gt;
+
+&lt;p&gt;Even when it’s not a pressure situation, it helps to be able to overcome the resistance that blocks us from achieving the goals we have.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Zu8hEtt.png&quot; alt=&quot;resistance&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Dec 2015 08:00:00 -0500</pubDate>
+        <link>http://kevinrpan.github.io/resistance</link>
+        <guid isPermaLink="true">http://kevinrpan.github.io/resistance</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>notes</category>
+        
+        <category>motivation</category>
+        
+      </item>
     
       <item>
         <title>First Post</title>
@@ -61,8 +83,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2015 22:00:00 -0500</pubDate>
-        <link>http://127.0.0.1:4000/blog/notes/2015/12/12/welcome-to-me/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/blog/notes/2015/12/12/welcome-to-me/</guid>
+        <link>http://kevinrpan.github.io/blog/notes/2015/12/12/welcome-to-me/</link>
+        <guid isPermaLink="true">http://kevinrpan.github.io/blog/notes/2015/12/12/welcome-to-me/</guid>
         
         
         <category>blog</category>
@@ -79,9 +101,9 @@
                 <div class="column one">
                     <h6>Few more links</h6>
 <ul class="menu">
-    <li><a href="http://127.0.0.1:4000/about">About</a></li>
-    <li><a href="http://127.0.0.1:4000/blog">Blog</a></li>
-    <li><a href="http://127.0.0.1:4000/faq">Help / FAQ</a></li>    
+    <li><a href="http://kevinrpan.github.io/about">About</a></li>
+    <li><a href="http://kevinrpan.github.io/blog">Blog</a></li>
+    <li><a href="http://kevinrpan.github.io/faq">Help / FAQ</a></li>    
 </ul>		                    
                 </div>
                 <div class="column two">
