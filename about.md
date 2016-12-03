@@ -7,13 +7,13 @@ permalink: /about/
 
 ##About
 
-Hello, I'm Kevin Pan. I'm currently a student at University of Pennsylvania, majoring in Mathematical Economics and minoring in Statistics and Computer Science. 
+Hello, I'm Kevin Pan and I get excited about data.
 
 This is my [home site][homesite] which I will be managing.
 
 ### Contact me
 
-Find me on [LinkedIn][linkedin] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
+Find me on [LinkedIn][linkedin] / [Github][github] or just say `Hello` at 
 [kevinrpan@gmail.com](kevinrpan+git@gmail.com).
 
 
