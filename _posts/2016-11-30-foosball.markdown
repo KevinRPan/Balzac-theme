@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title:  "Foosball"
 date:   2016-11-30 23:00:00

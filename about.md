@@ -4,19 +4,30 @@ title: About me
 permalink: /about/
 ---
 
+Hello, my name is Kevin. I live in San Francisco, California. 
 
-##About
+I am employed as a research analyst with an economic consulting firm. 
 
-Hello, I'm Kevin Pan and I get excited about data.
+With inspiration from Hadley Wickham and Edward Tufte, I specialize in data exploration and data visualization using R and SQL.
 
-This is my [home site][homesite] which I will be managing.
+My current learning projects are appropriately handling out-of-memory data for statistical modeling. Outside of work, I follow machine learning news and try to apply those skills to side projects with Python.
+
+I studied a combination of Mathematics, Computer Science, Statistics, and Economics at the University of Pennsylvania, and I am always looking to keep learning. 
+
+I also enjoy music ([soundcloud][soundcloud] and [lastfm][lastfm]) and [photography][flickr].
+
+This site you are at is my [home site][homesite] where I will add things that interest me.
 
 ### Contact me
 
 Find me on [LinkedIn][linkedin] / [Github][github] or just say `Hello` at 
 [kevinrpan@gmail.com](kevinrpan+git@gmail.com).
 
+This blog is created with [Jekyll][jekyll] and Github Pages. 
 
+[flickr]: https://www.flickr.com/photos/134205173@N03/
+[soundcloud]: http://soundcloud.com/kpan
+[lastfm]: http://last.fm/user/Soundshot
 [homesite]: http://kevinrpan.github.io
 [tf]: http://template-factory.nl
 [m]: http://mearch.com
