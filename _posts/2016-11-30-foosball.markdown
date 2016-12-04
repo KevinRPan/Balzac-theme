@@ -23,6 +23,6 @@ I decided to apply the Elo ranking system used in chess and sports like soccer, 
 
 This analysis allows any players to add their scores in a Google Doc, and all singles games go into creating a ranking for any player with match data available.
 
-[Foosball Performance Analysis][http://kevinrpan.shinyapps.io/foos_analysis]
+[Foosball Performance Analysis](http://kevinrpan.shinyapps.io/foos_analysis)
 
 
