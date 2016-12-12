@@ -1,20 +1,17 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Pages
+tagline:          Keep learning.
+description:      Things I think about.
+canonical: http://kevinrpan.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Kevin Pan
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Aesthete & "
+  email:          kevinrpan@gmail.com
+  github:         kevinrpan
+  instagram:      kevipan
+  location:       "San Francisco, CA"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,15 +27,16 @@ opengraph:
 links:
   - title: About
     url: /about
+  - title: Blog
+    url: /blog
+  - title: Projects
+    url: /projects
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/kevinrpan
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/San_Francisco
 future:      true
 highlighter: pygments
 markdown:    kramdown
