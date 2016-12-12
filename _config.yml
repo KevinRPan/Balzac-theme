@@ -1,59 +1,67 @@
-# Harmony Jekyll theme general configurations 
+title:            Balzac
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: http://jekyll.gtat.me
 
-# Base URL
-baseurl: 
+# Owner/author information
+owner:
+  name:           Cole Townsend
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          cole@coletownsend.com
+  twitter:        twnsndco
+  github:         coletownsend
+  instagram:      ctrunsthis
+  dribbble:       coletownsend
+  disqus:         balzac
+  location:       "Buffalo, NY"
+  # Plug in your disqus shortname!
 
-# Site live URL
-url: http://kevinrpan.github.io
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
-# Localhost 
-#url: http://127.0.0.1:4000  
+# Open Graph customization
+opengraph:
+  locale:           en_US
 
-# Harmony theme configuration. Please change accordingly.
-harmony:
-  name: Explore
-  description: Discoveries while becoming a real person
-  meta_description: > # 
-   Sharing discoveries
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
-  author: # Author details
-    name: Kevin Pan
-    email: kevin.r.pan@gmail.com
-    url: http://kevinrpan.github.io
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    external: true
+  - title: Cole Who?
+    url: http://coletownsend.com
+    external: true
 
-  # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
-
-  # Profile links, leave blank to ignore
-  social: 
-    github: kevinrpan
-    twitter: kevinrpan
-    facebook: kevin.r.pan
-    gplus: 
-    dribble: 
-    pinterest: 
-  # Toggle disclaimer in footer
-  show_disclaimer: true
-
-# Conversion / Build settings 
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
 markdown:    kramdown
-# This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments 
 
-# Permalinks
-permalink:        pretty
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-exclude: 
-  - CNAME
-  - Gemfile
-  - Rakefile
-  - README.md
-  - .gitignore
-  - .sass-cache
-  - Gemfile.lock
-  - stylesheets
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-# Sass conversion configs
 sass:
-    sass_dir: assets/css/_sass
     style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
