@@ -12,19 +12,37 @@
       </ol>
 
       <div class="social">
-        <ul>
+        <ul class="icons">
+        
             <li><a id="mail" href="mailto:{{ site.owner.email }}"><span class="foot-link">Contact Me</span></a></li>
 
             {% if site.owner.flickr %}
-            <li><a id="drib" href="http://flickr.com/{{ site.owner.flickr }}" target="_blank"><span class="foot-link">Flickr</span></a></li>
+            <li>
+              <a id="flickr" href="http://flickr.com/{{ site.owner.flickr }}" target="_blank"><span class="foot-link">Flickr</span></a></li>
+            {% endif %}
+            
+            {% if site.github_username %}
+              <li>
+                <a id="github" href="https://github.com/{{ site.github_username }}" class="icon fa-github">
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.linkedin_username %}
+              <li>
+                <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
             {% endif %}
 
             {% if site.owner.instagram %}
-            <li><a id="drib" href="http://instagram.com/{{ site.owner.instagram }}" target="_blank"><span class="foot-link">Instagram</span></a></li>
+            <li><a id="insta" href="http://instagram.com/{{ site.owner.instagram }}" target="_blank"><span class="foot-link">Instagram</span></a></li>
             {% endif %}
 
             {% if site.owner.soundcloud %}
-            <li><a id="drib" href="http://soundcloud.com/{{ site.owner.soundcloud }}" target="_blank"><span class="foot-link">Soundcloud</span></a></li>
+            <li><a id="soundclud" href="http://soundcloud.com/{{ site.owner.soundcloud }}" target="_blank"><span class="foot-link">Soundcloud</span></a></li>
             {% endif %}
 
 
