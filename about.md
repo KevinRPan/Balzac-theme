@@ -21,7 +21,9 @@ I studied a combination of Mathematics, Computer Science, Statistics, and Econom
 
 I also enjoy music ([soundcloud][soundcloud] and [lastfm][lastfm]) and [photography][flickr].
 
-This site you are at is my [home site][homesite] where I will add things that interest me.
+This site you are at is my [home site][homesite] where I will add things that interest me. 
+
+My goal is to jot down my thoughts and experiences. These will be the pages to my life story. 
 
 ### Contact me
 

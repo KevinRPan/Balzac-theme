@@ -41,11 +41,6 @@ balzac-for-jekyll/
 
 Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. When working locally comment out `url` or else you will get a bunch of broken links because they are absolute and prefixed with `{{ site.url }}` in the various `_includes` and `_layouts`. Just remember to uncomment `url` when building for deployment or pushing to **gh-pages**...
 
-### Owner/Author Information
-
-Change your name, bio, Twitter url, email, Dribbble URL, etc.
-
-
 ### Top Navigation Links
 
 Edit page/post titles and URLs to include in the site's navigation. For external links add `external: true`.
@@ -61,10 +56,6 @@ links:
     url: http://coletownsend.com
     external: true
 ```
-
-## Other Stuff
-
-The rest is just your average Jekyll config settings. Nothing too crazy here...
 
 ### _includes
 
