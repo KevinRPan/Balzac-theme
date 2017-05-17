@@ -32,7 +32,7 @@ Find me on [LinkedIn][linkedin] / [Github][github] or just say `Hello` at
 
 This blog is created with [Jekyll][jekyll] and Github Pages. 
 
-[flickr]: https://www.flickr.com/photos/134205173@N03/
+[flickr]: https://www.flickr.com/photos/kevinpan
 [soundcloud]: http://soundcloud.com/kpan
 [lastfm]: http://last.fm/user/Soundshot
 [homesite]: http://kevinrpan.github.io
